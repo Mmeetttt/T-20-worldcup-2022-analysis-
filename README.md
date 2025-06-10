@@ -24,4 +24,4 @@ This project includes interactive visualizations to analyze key performance indi
 - Compare performance trends across multiple formats.
 - Optimize team selection using data-driven decisions.
 
-Does this capture your project accurately? Let me know if you’d like modifications! 🚀📊
+
